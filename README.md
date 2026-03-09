@@ -13,14 +13,14 @@
 
 ## 🌐 Live Demo
 
-**[Try it in your browser →](https://igtoth.github.io/cde-motif-desktop/)**
+**[Try it in your browser →](https://toth.ighor.com/cde/)**
 
 No installation. No download. Just open and use.
 
 > **How to enable after forking:**
 > Repo → `Settings` → `Pages` → Source: **Deploy from branch** → `main` → `/ (root)` → **Save**
 >
-> GitHub publishes your `index.html` live at `https://igtoth.github.io/cde-motif-desktop/` — same file, zero build step.
+> GitHub publishes your `index.html` live at `https://toth.ighor.com/cde/` — same file, zero build step.
 
 ---
 
